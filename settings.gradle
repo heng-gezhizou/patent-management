@@ -1,0 +1,3 @@
+rootProject.name = 'patent-management'
+include 'cloud-patent-system'
+
